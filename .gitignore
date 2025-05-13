@@ -1,0 +1,23 @@
+# Ignorar entornos virtuales
+david_entorno/
+
+
+
+# Ignorar archivos Parquet
+*.parquet
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos temporales y de sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
